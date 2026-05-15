@@ -1,0 +1,9 @@
+LBMS — Dashboard export
+Generated: 2026-05-14 14:15:08
+
+Distinct titles: 3
+Total copies: 141
+Available copies: 141
+Borrowed copies (inventory): 0
+Transaction rows: 1
+Active loans (return_date IS NULL): 0
